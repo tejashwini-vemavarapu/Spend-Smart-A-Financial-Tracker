@@ -1,4 +1,4 @@
-# Personal Finance Tracker – Machine Learning & Predictive Analytics
+# Finance Tracker – Machine Learning & Predictive Analytics
 
 
 # Project Overview
